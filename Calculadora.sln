@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calculadora", "Calculadora\Calculadora.vbproj", "{986A01BC-B41B-422A-B7E5-696E06BC8F99}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "z01_001", "z01_001\z01_001.vbproj", "{C50A0164-A53D-4566-9700-90AC00C826DB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "z01_000", "z01_000\z01_000.vbproj", "{CAC3E60C-B20A-4A4F-95A2-D2B802D78658}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://orez.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Calculadora\\Calculadora.vbproj
+		SccProjectName1 = Calculadora
+		SccLocalPath1 = Calculadora
+		SccProjectUniqueName2 = z01_001\\z01_001.vbproj
+		SccProjectName2 = z01_001
+		SccLocalPath2 = z01_001
+		SccProjectUniqueName3 = z01_000\\z01_000.vbproj
+		SccProjectName3 = z01_000
+		SccLocalPath3 = z01_000
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986A01BC-B41B-422A-B7E5-696E06BC8F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986A01BC-B41B-422A-B7E5-696E06BC8F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986A01BC-B41B-422A-B7E5-696E06BC8F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986A01BC-B41B-422A-B7E5-696E06BC8F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50A0164-A53D-4566-9700-90AC00C826DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50A0164-A53D-4566-9700-90AC00C826DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50A0164-A53D-4566-9700-90AC00C826DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50A0164-A53D-4566-9700-90AC00C826DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC3E60C-B20A-4A4F-95A2-D2B802D78658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC3E60C-B20A-4A4F-95A2-D2B802D78658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC3E60C-B20A-4A4F-95A2-D2B802D78658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC3E60C-B20A-4A4F-95A2-D2B802D78658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
